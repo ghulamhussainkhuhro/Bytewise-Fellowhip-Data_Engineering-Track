@@ -1,13 +1,5 @@
 # Bytewise Fellowship - Data Engineering Track
 
-![Bytewise Logo](https://bytewise-fellowship-logo-link.com/logo.png)
-![GitHub last commit](https://img.shields.io/github/last-commit/username/repo)
-![GitHub issues](https://img.shields.io/github/issues/username/repo)
-![GitHub stars](https://img.shields.io/github/stars/username/repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/repo?style=social)
-![GitHub license](https://img.shields.io/github/license/username/repo)
-![GitHub contributors](https://img.shields.io/github/contributors/username/repo)
-
 ## 🎉 Overview
 Welcome to my Bytewise Fellowship repository! This repository is part of my journey at the Bytewise Limited Fellowship program(Data Engineering Track), a 3-month immersive experience designed to provide hands-on training in data engineering. Throughout the fellowship, I will work on three industry-based projects, one project per month, to simulate real-world scenarios and build practical skills.
 
