@@ -1,11 +1,10 @@
 # Bytewise Fellowship - Data Engineering Track
 
 ## 🎉 Overview
-Welcome to my Bytewise Fellowship repository! This repository is part of my journey at the Bytewise Limited Fellowship program(Data Engineering Track), a 3-month immersive experience designed to provide hands-on training in data engineering. Throughout the fellowship, I will work on three industry-based projects, one project per month, to simulate real-world scenarios and build practical skills.
+Welcome to my Bytewise Fellowship repository! This repository is part of my journey at the Bytewise Limited Fellowship program(Data Engineering Track), a 3-month immersive experience designed to provide hands-on training in data engineering.
 
 ### 🏛️ Fellowship Structure
 - **Duration**: 3 months
-- **Projects**: 3 industry-based projects (1 per month)
 - **Mode**: Fully remote with flexible hours
 
 ## 📊 Project 01: ETL Workflow for the World's Largest Banks Data Using Python
@@ -24,10 +23,6 @@ This project involves acquiring and processing information about the world's lar
 - Pandas
 - MySQL
 - Matplotlib
-
-## 🚀 Project 2: To be added
-
-## 🚀 Project 3: To be added
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.9.3-yellow)
